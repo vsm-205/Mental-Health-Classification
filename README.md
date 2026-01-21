@@ -12,10 +12,13 @@ Quick Wins (Do These First):
 Medium Effort (If quick wins don't work):
 
 ⚙️ Implement Focal Loss (30 minutes)
+
 ⚙️ Add text augmentation (1 hour)
+
 ⚙️ Try RoBERTa instead of DistilBERT (1 hour)
 
 Advanced (If you want 90%+ accuracy):
 
 🔬 Build ensemble of 3 models (2-3 hours)
+
 🔬 Hyperparameter tuning with Optuna (3-4 hours)
